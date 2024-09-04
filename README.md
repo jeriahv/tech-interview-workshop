@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Jeriah Valencia jeriahv
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Sean Sullivan ssean03
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** Kids With the Greatest Number of Candies https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** Their challenge was concise, it was straightforward and they were able to pass all cases of the tests for their code. 
